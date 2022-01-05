@@ -1,8 +1,10 @@
 # FcarCS
 Fine-grained Co-Attentive Representation Learning for Semantic Code Search
 
-`FcarCS` is our model proposed in this paper.
+`Fine-grained Co-Attentive Representation Learning for Semantic Code Search.pdf` is our paper.
+Accepted by SANER 2022: IEEE International Conference on Software Analysis, Evolution, and Reengineering
 
+`FcarCS` is our model proposed in this paper.
 `DeepCS` `UNIF` `TabCS` are replication packages of baselines.
 
 
