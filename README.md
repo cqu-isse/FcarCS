@@ -2,9 +2,11 @@
 Fine-grained Co-Attentive Representation Learning for Semantic Code Search
 
 `Fine-grained Co-Attentive Representation Learning for Semantic Code Search.pdf` is our paper.
+
 Accepted by SANER 2022: IEEE International Conference on Software Analysis, Evolution, and Reengineering
 
 `FcarCS` is our model proposed in this paper.
+
 `DeepCS` `UNIF` `TabCS` are replication packages of baselines.
 
 
@@ -31,6 +33,7 @@ Accepted by SANER 2022: IEEE International Conference on Software Analysis, Evol
    ### Configuration
    
    Edit hyper-parameters and settings in `config.py`
+   
    Set reload model/epoch in `config.py`
    
    ### Train and Evaluate
