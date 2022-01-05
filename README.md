@@ -29,6 +29,7 @@ Fine-grained Co-Attentive Representation Learning for Semantic Code Search
    ### Configuration
    
    Edit hyper-parameters and settings in `config.py`
+   Set reload model/epoch in `config.py`
    
    ### Train and Evaluate
    
